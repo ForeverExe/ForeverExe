@@ -17,7 +17,7 @@ But I'm still deciding since there's a lot of other possibilities out there!
 | HTML | 7/10 |
 | CSS | 4/10 |
 | Javascript | 6/10 |
-| SQL (Mostly MySQL | 7/10 |
+| SQL (Mostly MySQL) | 7/10 |
 
 
 <!--
