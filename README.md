@@ -1,13 +1,13 @@
 ### Welcome to my profile!
 I'm a first-year Computer Engineer student at [Universita degli studi di Modena e Reggio Emilia (UniMoRe)](https://www.unimore.it)
 
-###I would like to work in...
+### I would like to work in...
 - Cybersecuriy
 - Game Development
 - Automotive
 But I'm still deciding since there's a lot of other possibilities out there!
 
-###Language profiency
+### Language profiency
 | Language | Profiency /10 |
 | ----------- | ----------- |
 | C | 7/10 |
