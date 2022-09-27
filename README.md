@@ -5,6 +5,7 @@ I'm a first-year Computer Engineer student at [Universita degli studi di Modena 
 - Cybersecuriy
 - Game Development
 - Automotive
+
 But I'm still deciding since there's a lot of other possibilities out there!
 
 ### Language profiency
