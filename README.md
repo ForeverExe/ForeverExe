@@ -2,7 +2,7 @@
 I'm a first-year Computer Engineer student at [Universita degli studi di Modena e Reggio Emilia (UniMoRe)](https://www.unimore.it)
 
 ### I would like to work in...
-- Cybersecuriy
+- Cybersecurity
 - Game Development
 - Automotive
 
