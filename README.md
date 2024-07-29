@@ -1,6 +1,7 @@
 ### Welcome to my profile!
-I'm a second-year Computer Engineer student at [Universita degli studi di Modena e Reggio Emilia (UniMoRe)](https://www.unimore.it)
+I'm a Computer Engineer undergraduate at [Universita degli studi di Modena e Reggio Emilia (UniMoRe)](https://www.unimore.it)
 
+I would like to be more into Cybersec, meanwhile I try to make games and learn other languages (I'm really liking Zig)
 <!--
 **ForeverExe/ForeverExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
